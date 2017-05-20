@@ -5,8 +5,8 @@ import matplotlib.tri as mtri
 
 fig = plt.figure(figsize=plt.figaspect(1))
 
-u = np.linspace(0, 2.0 * np.pi, endpoint=True, num=20)
-v = np.linspace(-0.5 , 0.5, endpoint=True, num=10)
+u = np.linspace(0, 2.0 * np.pi, endpoint=True, num=50)
+v = np.linspace(-0.5 , 0.5, endpoint=True, num=11)
 u, v = np.meshgrid(u, v)
 u, v = u.flatten(), v.flatten()
 
