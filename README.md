@@ -9,5 +9,7 @@
 
 ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/umbilic_torus.png)
 
+- Sphere
 
+ ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/sphere.png)
 
