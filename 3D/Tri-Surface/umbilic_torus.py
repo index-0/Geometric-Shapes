@@ -18,7 +18,7 @@ tri = mtri.Triangulation(u, v)
 
 ax = fig.add_subplot(1, 1, 1, projection='3d')
 ax.plot_trisurf(x, y, z, triangles=tri.triangles, cmap=plt.cm.Spectral)
-ax.set_title('Umbilic torus')
+ax.set_title('Umbilic Torus')
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
