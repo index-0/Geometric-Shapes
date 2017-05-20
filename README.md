@@ -5,9 +5,13 @@
 
 ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/mobius_strip.png)
 
-- Umbilic torus
+- Umbilic Torus
 
 ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/umbilic_torus.png)
+
+-Torus
+
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/torus.png)
 
 - Sphere
 
