@@ -17,11 +17,13 @@ z = np.sin(u / 3 - 2 * v) + 2 * np.sin(u / 3 + v)
 tri = mtri.Triangulation(u, v)
 
 ax = fig.add_subplot(1, 1, 1, projection='3d')
-ax.plot_trisurf(x, y, z, triangles=tri.triangles)
+ax.plot_trisurf(x, y, z, triangles=tri.triangles, cmap=plt.cm.Spectral)
 ax.set_title('Umbilic torus')
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
-
+ax.set_xlim(-10, 10)
+ax.set_ylim(-10, 10)
+ax.set_zlim(-10, 10)
 
 plt.show()
