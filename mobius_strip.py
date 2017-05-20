@@ -18,7 +18,7 @@ tri = mtri.Triangulation(u, v)
 
 ax = fig.add_subplot(1, 1, 1, projection='3d')
 ax.plot_trisurf(x, y, z, triangles=tri.triangles)
-ax.set_title('Banda de Mobius')
+ax.set_title('Mobius Strip')
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
