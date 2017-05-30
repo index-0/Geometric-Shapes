@@ -7,7 +7,7 @@ import matplotlib.tri as mtri
 fig = plt.figure(figsize=plt.figaspect(1))
 
 u = np.linspace(0, 2.0 * np.pi, endpoint=True, num=50)
-v = np.linspace(-0.5 , 0.5, endpoint=True, num=11)
+v = np.linspace(-0.5 , 0.5, endpoint=True, num=10)
 u, v = np.meshgrid(u, v)
 u, v = u.flatten(), v.flatten()
 
@@ -23,8 +23,11 @@ ax.set_title('Mobius Strip')
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
-ax.set_xlim(-1, 1)
-ax.set_ylim(-1, 1)
-ax.set_zlim(-1, 1)
+
+lim = (max(abs(max(max(x), max(y), max(z))), abs(min(min(x), min(y), min(z)))))
+
+ax.set_xlim(-lim, lim)
+ax.set_ylim(-lim, lim)
+ax.set_zlim(-lim, lim)
 
 plt.show()

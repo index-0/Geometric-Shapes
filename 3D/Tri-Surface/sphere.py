@@ -11,8 +11,8 @@ v = np.linspace(0 , np.pi, endpoint=True, num=25)
 u, v = np.meshgrid(u, v)
 u, v = u.flatten(), v.flatten()
 
-x = np.cos(u)*np.sin(v)
-y = np.sin(u)*np.sin(v)
+x = np.cos(u) * np.sin(v)
+y = np.sin(u) * np.sin(v)
 z = np.cos(v)
 
 tri = mtri.Triangulation(u, v)
@@ -23,8 +23,11 @@ ax.set_title('Sphere')
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
-ax.set_xlim(-1, 1)
-ax.set_ylim(-1, 1)
-ax.set_zlim(-1, 1)
+
+lim = (max(abs(max(max(x), max(y), max(z))), abs(min(min(x), min(y), min(z)))))
+
+ax.set_xlim(-lim, lim)
+ax.set_ylim(-lim, lim)
+ax.set_zlim(-lim, lim)
 
 plt.show()

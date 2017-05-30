@@ -23,8 +23,11 @@ ax.set_title('Umbilic Torus')
 ax.set_xlabel('X')
 ax.set_ylabel('Y')
 ax.set_zlabel('Z')
-ax.set_xlim(-10, 10)
-ax.set_ylim(-10, 10)
-ax.set_zlim(-10, 10)
+
+lim = (max(abs(max(max(x), max(y), max(z))), abs(min(min(x), min(y), min(z)))))
+
+ax.set_xlim(-lim, lim)
+ax.set_ylim(-lim, lim)
+ax.set_zlim(-lim, lim)
 
 plt.show()
