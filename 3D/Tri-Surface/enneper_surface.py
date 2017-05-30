@@ -6,14 +6,14 @@ import matplotlib.tri as mtri
 
 fig = plt.figure(figsize=plt.figaspect(1))
 
-u = np.linspace(-np.pi, np.pi, endpoint=True, num=25)
-v = np.linspace(-np.pi, np.pi, endpoint=True, num=25)
+u = np.linspace(-np.pi, np.pi, endpoint=True, num=30)
+v = np.linspace(-np.pi, np.pi, endpoint=True, num=30)
 u, v = np.meshgrid(u, v)
 u, v = u.flatten(), v.flatten()
 
-x = 1 / 4 * (u ** 3 - 3 * u - 3 * u * v **2)
-y = 1 / 4 * (3 * v + 3 * v * u ** 2 - v ** 3)
-z = 3 / 4 * (v ** 2 - u ** 2)
+x = u * (1 - u ** 2 / 3 + v **2) / 3
+y = -v * (1 -v ** 2 / 3 + u ** 2) / 3
+z = (u ** 2 - v ** 2) / 3
 
 tri = mtri.Triangulation(u, v)
 
