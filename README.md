@@ -21,7 +21,9 @@
 
  ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/sphere.png)
 
+- Catenoid
+
 <details>
-  <summary>- Catenoid</summary>
-  ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/catenoid.png)
+  <summary>image</summary>
+  <img src="https://raw.github.com/index-0/Geometric-Shapes/master/Images/catenoid.png">
 </details>
