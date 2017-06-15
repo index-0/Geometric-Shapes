@@ -13,6 +13,10 @@
 
 ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/enneper_surface.png)
 
+- Helicoid
+
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/helicoid.png)
+
 - Torus
 
 ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/torus.png)
