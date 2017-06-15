@@ -1,27 +1,27 @@
 # 3D
 ## Tri-Surface
 
-- Mobius Strip
+### Mobius Strip
 
 ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/mobius_strip.png)
 
-- Umbilic Torus
+### Umbilic Torus
 
 ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/umbilic_torus.png)
 
-- Enneper Surface
+### Enneper Surface
 
 ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/enneper_surface.png)
 
-- Torus
+### Torus
 
 ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/torus.png)
 
-- Sphere
+### Sphere
 
  ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/Images/sphere.png)
 
-- Catenoid
+### Catenoid
 
 <details>
   <img src="https://raw.github.com/index-0/Geometric-Shapes/master/Images/catenoid.png">
