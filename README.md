@@ -24,6 +24,5 @@
 - Catenoid
 
 <details>
-  <summary>image</summary>
   <img src="https://raw.github.com/index-0/Geometric-Shapes/master/Images/catenoid.png">
 </details>
