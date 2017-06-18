@@ -28,6 +28,7 @@ ax.set_zlabel('Z')
 
 scale = np.array([getattr(ax, 'get_{}lim'.format(dim))() for dim in 'xyz'])
 ax.auto_scale_xyz(*[[np.min(scale), np.max(scale)]]*3)
+ax.set_zlim(0)
 
 plt.show()
 
