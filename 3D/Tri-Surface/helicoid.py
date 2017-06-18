@@ -14,7 +14,7 @@ c = float(input("c: "))
 n = angle / 360
 
 u = np.linspace(0, r, endpoint=True, num=11 * n)
-v = np.linspace(0, np.deg2rad(angle), endpoint=True, num=11 * n)
+v = np.linspace(-np.deg2rad(angle), np.deg2rad(angle), endpoint=True, num=22 * n)
 u, v = np.meshgrid(u, v)
 u, v = u.flatten(), v.flatten()
 
@@ -39,7 +39,7 @@ lim = (max(abs(max(max(x), max(y))), abs(min(min(x), min(y)))))
 
 ax.set_xlim(-lim, lim)
 ax.set_ylim(-lim, lim)
-ax.set_zlim(0, max(z))
+ax.set_zlim(-lim, lim)
 
 plt.show()
 
