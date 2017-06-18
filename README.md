@@ -11,7 +11,7 @@
 
 - Enneper Surface
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surfaces/enneper_surfaces.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surfaces/enneper_surface.png)
 
 - Helicoid
 
@@ -41,7 +41,7 @@
 
 - Enneper Surface
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surfaces/enneper_surfaces.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surfaces/enneper_surface.png)
 
 - Helicoid
 
