@@ -35,7 +35,7 @@ ax.set_xlabel('$x$')
 ax.set_ylabel('$y$')
 ax.set_zlabel('$z$')
 
-lim = (max(abs(max(max(x), max(y))), abs(min(min(x), min(y)))))
+lim = (max(abs(max(max(x), max(y), max(z))), abs(min(min(x), min(y), min(z)))))
 
 ax.set_xlim(-lim, lim)
 ax.set_ylim(-lim, lim)
