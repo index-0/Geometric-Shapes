@@ -3,58 +3,58 @@
 
 - Mobius Strip
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surface/mobius_strip.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surfaces/mobius_strip.png)
 
 - Umbilic Torus
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surface/umbilic_torus.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surfaces/umbilic_torus.png)
 
 - Enneper Surface
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surface/enneper_surface.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surfaces/enneper_surfaces.png)
 
 - Helicoid
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surface/helicoid.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surfaces/helicoid.png)
 
 - Torus
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surface/torus.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surfaces/torus.png)
 
 - Sphere
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surface/sphere.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surfaces/sphere.png)
 
 - Catenoid
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surface/catenoid.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/surfaces/catenoid.png)
 
 ## Tri-Surface
 
 - Mobius Strip
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surface/mobius_strip.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surfaces/mobius_strip.png)
 
 - Umbilic Torus
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surface/umbilic_torus.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surfaces/umbilic_torus.png)
 
 - Enneper Surface
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surface/enneper_surface.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surfaces/enneper_surfaces.png)
 
 - Helicoid
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surface/helicoid.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surfaces/helicoid.png)
 
 - Torus
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surface/torus.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surfaces/torus.png)
 
 - Sphere
 
- ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surface/sphere.png)
+ ![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surfaces/sphere.png)
 
 - Catenoid
 
-![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surface/catenoid.png)
+![ScreenShot](https://raw.github.com/index-0/Geometric-Shapes/master/images/tri-surfaces/catenoid.png)
